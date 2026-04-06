@@ -1,0 +1,49 @@
+
+PATIENT_NAME                                       DOCTOR_NAME                                        APPOINTME
+-------------------------------------------------- -------------------------------------------------- ---------
+Rahul Sharma                                       Dr. Mehta                                          10-FEB-24
+Amit Das                                           Dr. Mehta                                          14-FEB-24
+Suresh Kumar                                       Dr. Rao                                            12-FEB-24
+Priya Singh                                        Dr. Sen                                            13-FEB-24
+Anita Verma                                        Dr. Iyer                                           11-FEB-24
+
+
+PATIENT_NAME                                      
+--------------------------------------------------
+Rahul Sharma
+Amit Das
+
+
+PATIENT_NAME                                       DOCTOR_NAME                                            AMOUNT
+-------------------------------------------------- -------------------------------------------------- ----------
+Rahul Sharma                                       Dr. Mehta                                                2000
+Suresh Kumar                                       Dr. Rao                                                  3000
+Priya Singh                                        Dr. Sen                                                  4000
+
+
+DOCTOR_NAME                                        TOTAL_BILL
+-------------------------------------------------- ----------
+Dr. Mehta                                                2000
+Dr. Rao                                                  3000
+Dr. Sen                                                  4000
+
+
+PATIENT_NAME                                      
+--------------------------------------------------
+Anita Verma
+
+
+DOCTOR_NAME                                       
+--------------------------------------------------
+Dr. Rao
+Dr. Mehta
+
+
+DOCTOR_NAME                                        TOTAL_APPOINTMENTS
+-------------------------------------------------- ------------------
+Dr. Mehta                                                           2
+Dr. Iyer                                                            1
+Dr. Rao                                                             1
+Dr. Sen                                                             1
+Dr. Gupta                                                           0
+
